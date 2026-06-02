@@ -1,6 +1,6 @@
 #include <Arduino.h>
 
-// Mike Maesen
+// Mike Maesen 1245
 
 int hoofdRood = 2;
 int hoofdOranje = 3;
